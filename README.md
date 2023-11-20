@@ -1,7 +1,7 @@
 # Generative AI in Midical Image Analysis
 
 ## Contents
-- [Survey Papers](#survey-papers)
+- [Survey Papers](#related-surveys)
 
 - [Papers](#papers)
   - [Anomaly Detection](#anomaly-detection)

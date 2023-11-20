@@ -15,6 +15,7 @@
 
 
 ## Contents
+
 -[Generative AI](#anomaly-detection)
   -[Generative Adversarial Nets (GANs)](#anomaly-detection)
   -[Variational Auto-encoders](#anomaly-detection)

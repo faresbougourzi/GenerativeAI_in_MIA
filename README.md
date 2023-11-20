@@ -1,5 +1,6 @@
 # Generative AI in Midical Image Analysis
 
+<!--  
 ## Contents
 - [Survey Papers](#related-surveys)
 
@@ -12,6 +13,36 @@
   - [Image Generation](#image-generation)
   - [Text-to-Image](#text-to-image)
   - [Registration](#registration)
+  -->
+
+## Contents
+-[Generative AI]
+  -[Generative Adversarial Nets (GANs)]
+  -[Variational Auto-encoders]
+  -[Diffusion Models]
+  -[ChatGPT-4 And LLMs]
+-[Medical Image Analysis]
+-[GANs in MIA]
+  -[Image-to-Image Translation]
+  -[Reconstruction]
+  -[Classification]
+  -[Segmentation] 
+  -[Others] 
+-[Variational Auto-encoders in MIA]
+  -[Image-to-Image Translation]
+  -[Reconstruction]
+  -[Classification]
+  -[Segmentation] 
+  -[Others] 
+-[Diffusion Models in MIA]
+  -[Image-to-Image Translation]
+  -[Reconstruction]
+  -[Classification]
+  -[Segmentation] 
+  -[Others] 
+-[ChatGPT-4 And LLMs in MIA]  
+
+
 
 ## Survey Papers
 

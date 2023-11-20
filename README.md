@@ -15,31 +15,31 @@
 
 
 ## Contents
--[Generative AI]
-  -[Generative Adversarial Nets (GANs)]
-  -[Variational Auto-encoders]
-  -[Diffusion Models]
-  -[ChatGPT-4 And LLMs]
--[Medical Image Analysis]
--[GANs in MIA]
-  -[Image-to-Image Translation]
-  -[Reconstruction]
-  -[Classification]
-  -[Segmentation] 
-  -[Others] 
--[Variational Auto-encoders in MIA]
-  -[Image-to-Image Translation]
-  -[Reconstruction]
-  -[Classification]
-  -[Segmentation] 
-  -[Others] 
--[Diffusion Models in MIA]
-  -[Image-to-Image Translation]
-  -[Reconstruction]
-  -[Classification]
-  -[Segmentation] 
-  -[Others] 
--[ChatGPT-4 And LLMs in MIA]  
+-[Generative AI](#anomaly-detection)
+  -[Generative Adversarial Nets (GANs)](#anomaly-detection)
+  -[Variational Auto-encoders](#anomaly-detection)
+  -[Diffusion Models](#anomaly-detection)
+  -[ChatGPT-4 And LLMs](#anomaly-detection)
+-[Medical Image Analysis](#anomaly-detection)
+-[GANs in MIA](#anomaly-detection)
+  -[Image-to-Image Translation](#anomaly-detection)
+  -[Reconstruction](#anomaly-detection)
+  -[Classification](#anomaly-detection)
+  -[Segmentation](#anomaly-detection)
+  -[Others](#anomaly-detection) 
+-[Variational Auto-encoders in MIA](#anomaly-detection)
+  -[Image-to-Image Translation](#anomaly-detection)
+  -[Reconstruction](#anomaly-detection)
+  -[Classification](#anomaly-detection)
+  -[Segmentation](#anomaly-detection) 
+  -[Others](#anomaly-detection) 
+-[Diffusion Models in MIA](#anomaly-detection)
+  -[Image-to-Image Translation](#anomaly-detection)
+  -[Reconstruction](#anomaly-detection)
+  -[Classification](#anomaly-detection)
+  -[Segmentation](#anomaly-detection)
+  -[Others](#anomaly-detection) 
+-[ChatGPT-4 And LLMs in MIA](#anomaly-detection)  
 
 
 

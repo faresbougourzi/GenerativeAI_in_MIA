@@ -1,1 +1,1 @@
-# GenerativeAI_in_MIA
+# GenerativeAI in Midical Image Analysis

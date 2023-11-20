@@ -1,1 +1,1 @@
-# Generative AI in Midical Image Analysis
+#Generative AI in Midical Image Analysis

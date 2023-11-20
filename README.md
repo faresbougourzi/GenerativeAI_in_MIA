@@ -3,7 +3,6 @@
 <!--  
 ## Contents
 - [Survey Papers](#related-surveys)
-
 - [Papers](#papers)
   - [Anomaly Detection](#anomaly-detection)
   - [Denoising](#denoising)
@@ -12,8 +11,8 @@
   - [Reconstruction](#reconstruction)
   - [Image Generation](#image-generation)
   - [Text-to-Image](#text-to-image)
-  - [Registration](#registration)
-  -->
+  - [Registration](#registration)  -->
+
 
 ## Contents
 -[Generative AI]

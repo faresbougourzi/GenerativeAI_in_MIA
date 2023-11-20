@@ -1,5 +1,32 @@
 # Generative AI in Midical Image Analysis
 
+## Contents
+- [Survey Papers](#survey-papers)
+
+- [Papers](#papers)
+  - [Anomaly Detection](#anomaly-detection1)
+  - [Denoising](#denoising)
+  - [Segmentation](#segmentation)
+  - [Image-to-Image Translation](#image-to-image-translation)
+  - [Reconstruction](#reconstruction)
+  - [Image Generation](#image-generation)
+  - [Text-to-Image](#text-to-image)
+  - [Registration](#registration)
+
+## Papers
+
+### Anomaly Detection
+
+**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
+*Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
+[30th Aug, 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/ZiyunLiang/MMCCD)]
+
+**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
+*Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
+[3rd Aug, 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
+
 ## Related Surveys			
 |Paper |             	Link| 	Github|	Journal|
 |:--------|:----------|:---------|:----------|

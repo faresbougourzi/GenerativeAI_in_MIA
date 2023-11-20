@@ -4,7 +4,7 @@
 - [Survey Papers](#survey-papers)
 
 - [Papers](#papers)
-  - [Anomaly Detection](#anomaly-detection1)
+  - [Anomaly Detection](#anomaly-detection)
   - [Denoising](#denoising)
   - [Segmentation](#segmentation)
   - [Image-to-Image Translation](#image-to-image-translation)

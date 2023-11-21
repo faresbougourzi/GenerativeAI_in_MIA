@@ -1,23 +1,10 @@
 # Generative AI in Midical Image Analysis
 
-<!--  
-## Contents
-- [Survey Papers](#related-surveys)
-- [Papers](#papers)
-  - [Anomaly Detection](#anomaly-detection)
-  - [Denoising](#denoising)
-  - [Segmentation](#segmentation)
-  - [Image-to-Image Translation](#image-to-image-translation)
-  - [Reconstruction](#reconstruction)
-  - [Image Generation](#image-generation)
-  - [Text-to-Image](#text-to-image)
-  - [Registration](#registration)  -->
-
 
 ## Contents
-- [Related Surveys](#anomaly-detection)
-- [Generative AI](#anomaly-detection)
-  - [Generative Adversarial Nets (GANs)](#anomaly-detection)
+- [Related Surveys](#related-surveys)
+- [Generative AI](#generative-ai)
+  - [Generative Adversarial Nets (GANs)](#generative-adversarial-nets-gans)
   - [Variational Auto-encoders](#anomaly-detection)
   - [Diffusion Models](#anomaly-detection)
   - [ChatGPT-4 And LLMs](#anomaly-detection)

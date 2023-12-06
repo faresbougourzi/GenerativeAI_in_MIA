@@ -389,25 +389,3 @@
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
 
-
-# My GitHub Project
-
-## Summary
-
-This is the summary of my project.
-
-## Table of Contents
-
-- [Subtitle 1: Image to Image Translation](#image-to-image-translation-1)
-- [Subtitle 2: Image to Image Translation](#image-to-image-translation-2)
-
-## Subtitle 1: Image to Image Translation
-
-This is the content for the first subtitle.
-
-## Subtitle 2: Image to Image Translation
-
-This is the content for the second subtitle.
-
-
-

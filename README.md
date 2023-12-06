@@ -29,7 +29,7 @@
   - [Auto-Regressive Models](#auto-regressive-models)
   - [Normalizing Flow Models](#normalizing-flow-models) 
   - [Energy Based Models](#energy-based-models)
-  - [ChatGPT-4 And LLMs](#hatgpt-4-and-llms-1)
+  - [ChatGPT-4 And LLMs](#chatgpt-4-and-llms-1)
   - [Hybrid Generative AI models](#hybrid-generative-ai-models)
 
 

@@ -17,7 +17,7 @@
   - [Segmentation (GANs)](#segmentation-gans)
   - [Others (GANs)](#others1-gans) 
 - [Diffusion Models in MIA](#diffusion-models-in-mia)
-  - [Image-to-Image Translation (Diffusion)](#image-to-image-translation-diffusion)
+  - [Image-to-Image Translation](#image-to-image-translation1)
   - [Anomaly Detection (Diffusion)](#anomaly-detection-diffusion)
   - [Reconstruction (Diffusion)](#reconstruction-diffusion)
   - [Classification (Diffusion)](#classification-diffusion)
@@ -218,8 +218,8 @@
 
 <!--- Diffusion Models --->
 ## Diffusion Models in MIA
-
-### Image-to-Image Translation (Diffusion)
+<a id="image-to-image-translation1"></a>
+### Image-to-Image Translation
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \

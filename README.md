@@ -2,7 +2,7 @@
 
 
 ## Contents
-- [Related Surveys](#-related-surveys)
+- [Related Surveys](#related-surveys)
 - [Generative AI](#-generative-ai)
   - [Generative Adversarial Nets (GANs)](#generative-adversarial-nets-gans)
   - [Diffusion Models](#anomaly-detection)

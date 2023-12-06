@@ -10,12 +10,12 @@
   - [ChatGPT-4 And LLMs](#anomaly-detection)
 - [Medical Image Analysis](#anomaly-detection)
 - [GANs in MIA](#gans-in-mia)
-  - [Image-to-Image Translation](#image-to-image-translation)
-  - [Anomaly Detection](#anomaly-detection)
-  - [Reconstruction](#reconstruction)
-  - [Classification](#classification)
-  - [Segmentation](#segmentation)
-  - [Others](#others) 
+  - [Image-to-Image Translation](#image-to-image-translation1)
+  - [Anomaly Detection](#anomaly-detection1)
+  - [Reconstruction](#reconstruction1)
+  - [Classification](#classification1)
+  - [Segmentation](#segmentation1)
+  - [Others](#others1) 
 - [Diffusion Models in MIA](#diffusion-models-in-mia)
   - [Image-to-Image Translation](#image-to-image-translation)
   - [Anomaly Detection](#anomaly-detection)
@@ -219,7 +219,7 @@
 <!--- Diffusion Models --->
 ## Diffusion Models in MIA
 
-### Image-to-Image Translation
+### Image-to-Image Translation(#image-to-image-translation1)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \

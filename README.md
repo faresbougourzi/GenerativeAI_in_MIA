@@ -10,19 +10,19 @@
   - [ChatGPT-4 And LLMs](#anomaly-detection)
 - [Medical Image Analysis](#anomaly-detection)
 - [GANs in MIA](#gans-in-mia)
-  - [Image-to-Image Translation](#image-to-image-translation-gans)
-  - [Anomaly Detection](#anomaly-detection-gans)
-  - [Reconstruction](#reconstruction-gans)
-  - [Classification](#classification-gans)
-  - [Segmentation](#segmentation-gans)
-  - [Others](#others-gans) 
+  - [Image-to-Image Translation (GANs)](#image-to-image-translation-gans)
+  - [Anomaly Detection (GANs)](#anomaly-detection-gans)
+  - [Reconstruction (GANs)](#reconstruction-gans)
+  - [Classification (GANs)](#classification-gans)
+  - [Segmentation (GANs)](#segmentation-gans)
+  - [Others (GANs)](#others1-gans) 
 - [Diffusion Models in MIA](#diffusion-models-in-mia)
-  - [Image-to-Image Translation](#image-to-image-translation-diffusion)
-  - [Anomaly Detection](#anomaly-detection-diffusion)
-  - [Reconstruction](#reconstruction-diffusion)
-  - [Classification](#classification-diffusion)
-  - [Segmentation](#segmentation-diffusion)
-  - [Others](#others-diffusion) 
+  - [Image-to-Image Translation (Diffusion)](#image-to-image-translation-diffusion)
+  - [Anomaly Detection (Diffusion)](#anomaly-detection-diffusion)
+  - [Reconstruction (Diffusion)](#reconstruction-diffusion)
+  - [Classification (Diffusion)](#classification-diffusion)
+  - [Segmentation (Diffusion)](#segmentation-diffusion)
+  - [Others (Diffusion)](#others-diffusion) 
 - [Other Generative models in MIA](#anomaly-detection)
   - [Variational Auto-encoders](#anomaly-detection)
   - [Neural Radiance Field](#anomaly-detection)
@@ -139,7 +139,7 @@
 <!--- GANs --->
 ## GANs in MIA
 
-### Image-to-Image Translation
+### Image-to-Image Translation (GANs)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -151,7 +151,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Anomaly Detection
+### Anomaly Detection (GANs)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -163,7 +163,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Reconstruction
+### Reconstruction (GANs)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -175,20 +175,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Classification
-
-**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
-*Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
-[30th Aug, 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/ZiyunLiang/MMCCD)]
-
-**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
-*Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
-[3rd Aug, 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
-
-
-### Segmentation
+### Classification (GANs)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -201,7 +188,20 @@
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
 
-### Others
+### Segmentation (GANs)
+
+**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
+*Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
+[30th Aug, 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/ZiyunLiang/MMCCD)]
+
+**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
+*Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
+[3rd Aug, 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
+
+
+### Others (GANs)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -219,7 +219,7 @@
 <!--- Diffusion Models --->
 ## Diffusion Models in MIA
 
-### Image-to-Image Translation(#image-to-image-translation1)
+### Image-to-Image Translation (Diffusion)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -231,7 +231,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Anomaly Detection
+### Anomaly Detection (Diffusion)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -243,7 +243,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Reconstruction
+### Reconstruction (Diffusion)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -255,20 +255,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Classification
-
-**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
-*Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
-[30th Aug, 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/ZiyunLiang/MMCCD)]
-
-**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
-*Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
-[3rd Aug, 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
-
-
-### Segmentation
+### Classification (Diffusion)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -281,7 +268,20 @@
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
 
-### Others
+### Segmentation (Diffusion)
+
+**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
+*Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
+[30th Aug, 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/ZiyunLiang/MMCCD)]
+
+**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
+*Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
+[3rd Aug, 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
+
+
+### Others (Diffusion)
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \

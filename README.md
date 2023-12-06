@@ -15,7 +15,7 @@
   - [Reconstruction (GANs)](#reconstruction)
   - [Classification (GANs)](#classification)
   - [Segmentation (GANs)](#segmentation)
-  - [Others (GANs)](#others1-gans) 
+  - [Others](#others-gans) 
 - [Diffusion Models in MIA](#diffusion-models-in-mia)
   - [Image-to-Image Translation](#image-to-image-translation1)
   - [Anomaly Detection (Diffusion)](#anomaly-detection1)
@@ -34,7 +34,7 @@
 
 
 
-## <span style="color:blue;">Related Surveys</span>
+## 🔍Related Surveys
 
 **A Comprehensive Review of Generative AI in Healthcare** \
 *Yasin Shokrollahi, Sahar Yarmohammadtoosky, Matthew M. Nikahd, Pengfei Dong, Xianqi Li, Linxia Gu* \
@@ -79,7 +79,7 @@
 
 
 <!--- Theory --->
-## <span style="color:blue;">Generative AI</span>
+## 🔍 Generative AI
 
 ### Generative Adversarial Nets (GANs)
 
@@ -122,7 +122,7 @@
 
 
 <!--- MIA Introduction --->
-## <span style="color:blue;">Medical Image Analysis</span>
+## 🔍 Medical Image Analysis
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -137,7 +137,7 @@
 
 
 <!--- GANs --->
-## <span style="color:blue;">GANs in MIA</span>
+## 🔍 GANs in MIA
 
 <a id="image-to-image-translation"></a>
 ### Image-to-Image Translation
@@ -221,7 +221,7 @@
 
 
 <!--- Diffusion Models --->
-## <span style="color:blue;">Diffusion Models in MIA</span>
+## 🔍 Diffusion Models in MIA
 
 <a id="image-to-image-translation1"></a>
 ### Image-to-Image Translation
@@ -309,7 +309,7 @@
 
 
 <!--- Other Generative AI Models --->
-## <span style="color:blue;">Other Generative AI Models in MIA</span>
+## 🔍 Other Generative AI Models in MIA
 
 ### Variational Auto-encoders
 

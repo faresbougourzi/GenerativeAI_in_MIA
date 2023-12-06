@@ -15,7 +15,7 @@
   - [Reconstruction](#reconstruction)
   - [Classification](#classification)
   - [Segmentation](#segmentation)
-  - [Others](#others-gans) 
+  - [Others](#others) 
 - [Diffusion Models in MIA](#-diffusion-models-in-mia)
   - [Image-to-Image Translation](#image-to-image-translation1)
   - [Anomaly Detection](#anomaly-detection1)

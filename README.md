@@ -24,7 +24,7 @@
   - [Segmentation](#segmentation1)
   - [Others](#others1) 
 - [Other Generative models in MIA](#-other-generative-ai-models-in-mia)
-  - [Variational Auto-encoders](#variational-auto-encoders)
+  - [Variational Auto-encoders](#variational-auto-encoders1)
   - [Neural Radiance Field](#neural-radiance-field)
   - [Auto-Regressive Models](#auto-regressive-models)
   - [Normalizing Flow Models](#normalizing-flow-models) 
@@ -336,6 +336,7 @@
 ## 🔍 Other Generative AI Models in MIA
 
 ---
+<a id="variational-auto-encoders1"></a>
 ### Variational Auto-encoders
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \

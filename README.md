@@ -139,7 +139,8 @@
 <!--- GANs --->
 ## GANs in MIA
 
-### Image-to-Image Translation (GANs)
+<a id="image-to-image-translation"></a>
+### Image-to-Image Translation
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -151,7 +152,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Anomaly Detection (GANs)
+<a id="anomaly-detection"></a>
+### Anomaly Detection
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -163,7 +165,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Reconstruction (GANs)
+<a id="reconstruction"></a>
+### Reconstruction
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -175,7 +178,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Classification (GANs)
+<a id="classification"></a>
+### Classification 
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -187,8 +191,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-
-### Segmentation (GANs)
+<a id="segmentation"></a>
+### Segmentation
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -200,8 +204,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-
-### Others (GANs)
+<a id="others"></a>
+### Others
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -218,6 +222,7 @@
 
 <!--- Diffusion Models --->
 ## Diffusion Models in MIA
+
 <a id="image-to-image-translation1"></a>
 ### Image-to-Image Translation
 
@@ -231,7 +236,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Anomaly Detection (Diffusion)
+<a id="anomaly-detection1"></a>
+### Anomaly Detection
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -243,7 +249,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Reconstruction (Diffusion)
+<a id="reconstruction1"></a>
+### Reconstruction
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -255,7 +262,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-### Classification (Diffusion)
+<a id="classification1"></a>
+### Classification 
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -267,8 +275,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-
-### Segmentation (Diffusion)
+<a id="segmentation1"></a>
+### Segmentation
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -280,8 +288,8 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-
-### Others (Diffusion)
+<a id="others1"></a>
+### Others
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \

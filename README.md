@@ -8,7 +8,7 @@
   - [Diffusion Models](#anomaly-detection)
   - [Variational Auto-encoders](#diffusion-models)
   - [ChatGPT-4 And LLMs](#chatgpt-4-and-llms)
-- [Medical Image Analysis](#-medical-image-analysis)
+- [Medical Image Analysis](#-medical-image-analysis) 
 - [GANs in MIA](#-gans-in-mia)
   - [Image-to-Image Translation](#image-to-image-translation)
   - [Anomaly Detection](#anomaly-detection)

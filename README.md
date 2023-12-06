@@ -23,7 +23,7 @@
   - [Classification](#classification1)
   - [Segmentation](#segmentation1)
   - [Others](#others1) 
-- [Other Generative models in MIA](#-other-generative-models-in-mia)
+- [Other Generative models in MIA](#-other-generative-ai-models-in-mia)
   - [Variational Auto-encoders](#-variational-auto-encoders)
   - [Neural Radiance Field](#neural-radiance-field)
   - [Auto-Regressive Models](#auto-regressive-models)

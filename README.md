@@ -34,7 +34,7 @@
 
 
 
-## Related Surveys
+## <span style="color:blue;">Related Surveys</span>
 
 **A Comprehensive Review of Generative AI in Healthcare** \
 *Yasin Shokrollahi, Sahar Yarmohammadtoosky, Matthew M. Nikahd, Pengfei Dong, Xianqi Li, Linxia Gu* \
@@ -79,7 +79,7 @@
 
 
 <!--- Theory --->
-## Generative AI
+## <span style="color:blue;">Generative AI</span>
 
 ### Generative Adversarial Nets (GANs)
 
@@ -122,7 +122,7 @@
 
 
 <!--- MIA Introduction --->
-## Medical Image Analysis
+## <span style="color:blue;">Medical Image Analysis</span>
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -137,7 +137,7 @@
 
 
 <!--- GANs --->
-## GANs in MIA
+## <span style="color:blue;">GANs in MIA</span>
 
 <a id="image-to-image-translation"></a>
 ### Image-to-Image Translation
@@ -221,7 +221,7 @@
 
 
 <!--- Diffusion Models --->
-## Diffusion Models in MIA
+## <span style="color:blue;">Diffusion Models in MIA</span>
 
 <a id="image-to-image-translation1"></a>
 ### Image-to-Image Translation
@@ -309,7 +309,7 @@
 
 
 <!--- Other Generative AI Models --->
-## Other Generative AI Models in MIA
+## <span style="color:blue;">Other Generative AI Models in MIA</span>
 
 ### Variational Auto-encoders
 

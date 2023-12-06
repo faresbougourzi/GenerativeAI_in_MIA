@@ -93,7 +93,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-
+---
 ### Diffusion Models
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
@@ -106,7 +106,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-
+---
 ### ChatGPT-4 And LLMs
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
@@ -120,7 +120,7 @@
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
 
-
+===
 <!--- MIA Introduction --->
 ## 🔍 Medical Image Analysis
 
@@ -135,10 +135,11 @@
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
 
-
+===
 <!--- GANs --->
 ## 🔍 GANs in MIA
 
+---
 <a id="image-to-image-translation"></a>
 ### Image-to-Image Translation
 
@@ -152,6 +153,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="anomaly-detection"></a>
 ### Anomaly Detection
 
@@ -165,6 +167,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="reconstruction"></a>
 ### Reconstruction
 
@@ -178,6 +181,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="classification"></a>
 ### Classification 
 
@@ -191,6 +195,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="segmentation"></a>
 ### Segmentation
 
@@ -204,6 +209,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="others"></a>
 ### Others
 
@@ -219,10 +225,11 @@
 
 
 
-
+===
 <!--- Diffusion Models --->
 ## 🔍 Diffusion Models in MIA
 
+---
 <a id="image-to-image-translation1"></a>
 ### Image-to-Image Translation
 
@@ -236,6 +243,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="anomaly-detection1"></a>
 ### Anomaly Detection
 
@@ -249,6 +257,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="reconstruction1"></a>
 ### Reconstruction
 
@@ -262,6 +271,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="classification1"></a>
 ### Classification 
 
@@ -275,6 +285,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="segmentation1"></a>
 ### Segmentation
 
@@ -288,6 +299,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 <a id="others1"></a>
 ### Others
 
@@ -307,10 +319,11 @@
 
 
 
-
+===
 <!--- Other Generative AI Models --->
 ## 🔍 Other Generative AI Models in MIA
 
+---
 ### Variational Auto-encoders
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
@@ -323,6 +336,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 ### Neural Radiance Field
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
@@ -335,6 +349,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 ### Auto-Regressive Models
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
@@ -347,6 +362,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 ### Normalizing Flow Models
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
@@ -358,7 +374,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-
+---
 ### Energy Based Models
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
@@ -371,7 +387,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
-
+---
 ### ChatGPT-4 And LLMs
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
@@ -384,6 +400,7 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+---
 ### Hybrid Generative AI models
 
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
